@@ -14,6 +14,6 @@ Its build-in Jetpack Compose
 <img src="resources/video.gif" height="300em"/>
 
 ## Download
-You can [download](resources/cryptocurrency.apk) the latest installable version of Crypto Wallet for Android.
+You can [download](resources/cryptocurrency.apk) the latest installable version of Crypto Currency for Android.
 
 Le Tran Hoang Son aka Daniel
